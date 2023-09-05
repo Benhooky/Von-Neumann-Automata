@@ -1,0 +1,2 @@
+# Von Neumann Automata
+ Implement a two-dimensional cellular automaton with a Von Neumann neighborhood according to a given number (optimal implementation - by any number). Boundary conditions suggest yourself. Take into account the possibility of entering different initial conditions - both manually and randomly. The user also defines the width of the field. As a result, you need to analyze your cellular automaton in the report (its behavior, patterns, "convergence", etc.).
